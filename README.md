@@ -97,4 +97,3 @@ Stress Prediction Project – 2025
 
 ---
 
-### ✅ Copy this entire text and paste it inside your GitHub README file.
