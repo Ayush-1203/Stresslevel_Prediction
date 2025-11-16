@@ -1,8 +1,5 @@
 # Stresslevel_Prediction
 
-Here is the **exact final README.md content** you must paste **inside GitHub**.
-No extra explanation — **just copy-paste this entire block** into your README.md file.
-
 ---
 
 # 🧠 Stress Level Prediction & Wellness Analyzer
